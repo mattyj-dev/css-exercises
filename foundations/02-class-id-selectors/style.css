@@ -1,0 +1,19 @@
+.odd-numbers, .oddity-numbers{
+    background-color: rgb(255, 182, 193);
+    font-family: Verdana, DejaVu-sans, sans-serif;
+}
+
+.oddity-numbers {
+    font-size: 24px;
+}
+
+#div2 {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#div4 {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
