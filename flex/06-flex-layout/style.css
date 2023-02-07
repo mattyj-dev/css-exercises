@@ -35,7 +35,8 @@ a {
   padding-inline-end: 15px;
 }
 
-.header, .footer {
+.header, 
+.footer {
   display: flex;
   justify-content: space-between;
 }
@@ -44,10 +45,12 @@ a {
   background-color: #eeeeee;
 }
 
-.left-links, .right-links {
+.left-links, 
+.right-links {
   display: flex;
   flex-direction: row;
   list-style-type: none;
+  gap: 16px;
 }
 
 .content {
